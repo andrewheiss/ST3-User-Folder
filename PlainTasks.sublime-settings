@@ -1,0 +1,11 @@
+{
+  "translate_tabs_to_spaces": false,
+  "date_format": "(%Y-%m-%d)",
+  "taskpaper_compatible": true,
+  "color_scheme": "Packages/PlainTasks/tasks-solarized-light.hidden-tmTheme",
+  "font_face": "Helvetica Neue Light",
+  "font_size": 20,
+  "tasks_bullet_space": " ",
+  "new_on_top": false,
+  "indent_after_task": false,
+}

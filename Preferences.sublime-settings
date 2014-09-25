@@ -1,0 +1,60 @@
+{
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"enable_live_count": false,
+	"enable_tab_scrolling": false,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.docx",
+		"*.xlsx",
+		"*.doc",
+		"*.xls",
+		".shastore",
+		".R*",
+		"*.Rproj"
+	],
+	"font_face": "Consolas",
+	"font_size": 13.0,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimePeek-R-help",
+		"Markdown"
+	],
+	"rulers":
+	[
+		80,
+		100
+	],
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"soda_classic_tabs": false,
+	"soda_folder_icons": true,
+	"sublimelinter": true,
+	"tab_size": 2,
+	"table_editor_syntax": "Auto",
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_simple_full_screen": true,
+	"word_wrap": "true"
+}

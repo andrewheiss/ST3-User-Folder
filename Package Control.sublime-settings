@@ -1,0 +1,30 @@
+{
+	"installed_packages":
+	[
+		"Abacus",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"Evernote",
+		"ExportHtml",
+		"FileDiffs",
+		"GenerateUUID",
+		"Gist",
+		"Jinja2",
+		"knitr",
+		"LaTeXTools",
+		"MarkdownEditing",
+		"PlainTasks",
+		"R-Box",
+		"rsub",
+		"ScopeHunter",
+		"SideBarEnhancements",
+		"SmartMarkdown",
+		"Stata Enhanced",
+		"SublimePeek",
+		"SublimePeek-R-help",
+		"SublimeREPL",
+		"Table Editor",
+		"TodoReview",
+		"ToggleQuotes"
+	]
+}

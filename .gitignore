@@ -1,0 +1,24 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore cache files
+*.cache
+
+# Ignore Sublime Text 2 project files
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Mac Desktop Services files
+.DS_Store
+
+# Ignore files with private tokens
+Gist.sublime-settings
+Evernote.sublime-settings
+
+# Ignore SublimeREPL
+SublimeREPLHistory/
+.SublimeREPLHistory/
+
+# Ignore Package Control stuff
+Package Control.last-run
+*.system-ca-bundle

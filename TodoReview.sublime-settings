@@ -1,0 +1,21 @@
+{
+  "patterns": {
+    "TODO": "TODO[\\s]*?:+(?P<todo>.*)$",
+    "BUG": "BUG[\\s]*?:+(?P<bug>.*)$",
+    "MAYBE": "MAYBE[\\s]*?:+(?P<maybe>.*)$",
+    "LATER": "LATER[\\s]*?:+(?P<later>.*)$"
+  },
+  "exclude_folders": [
+    "*.git*",
+    "*mallet*",
+    "*.Rproj*"
+  ],
+  "exclude_files": [
+    "*.sublime-workspace",
+    "*.sublime-project",
+    "*.RData",
+    "*.Rhistory",
+    "*.Rproj"
+  ],
+  "case_sensitive": false,
+}
